@@ -1,9 +1,9 @@
 ---
-title: Unity-Physics
+title: Unity-Physics知识点
 author: lihaoming
 date: 2023-01-30 20:49:00 +0800
-categories: [Software, Unity]
-tags: [software]
+categories: [Unity, Physics]
+tags: [Unity]
 ---
 
 PhysicsModule
