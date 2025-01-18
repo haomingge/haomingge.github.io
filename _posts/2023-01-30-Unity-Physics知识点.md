@@ -22,5 +22,3 @@ f•1.0=m•v
 4. ForceMode.VelocityChange：此种作用方式下将忽略刚体的实际质量，采用默认质量1.0，同时也忽略系统的实际帧频间隔，采用默认间隔1.0，即
 f•1.0=1.0•v
 即可得v1=f=10.0，即刚体每帧沿X轴移动距离为10米，从而可得刚体每秒的速度为v2=(1/0.02)*v1=500m/s。
-
-![](/assets/img/packages/device_simulator_1.png)
