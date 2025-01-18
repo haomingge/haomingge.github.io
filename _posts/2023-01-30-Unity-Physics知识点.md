@@ -23,4 +23,4 @@ f•1.0=m•v
 f•1.0=1.0•v
 即可得v1=f=10.0，即刚体每帧沿X轴移动距离为10米，从而可得刚体每秒的速度为v2=(1/0.02)*v1=500m/s。
 
-![](../assets/img/packages/device_simulator_1.png)
+![](/assets/img/packages/device_simulator_1.png)
